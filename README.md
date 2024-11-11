@@ -20,7 +20,7 @@ If you want to configure ReShade by your self, you can just take a LUT file: res
 
 ## Comparison(Without/With LUT)
 <p align="center">
-  <img alt="without" src="https://imgur.com/o01kbXL.jpg" width="49%">
+  <img alt="without" src="https://imgur.com/o01kbXL.png" width="49%">
 &nbsp;
   <img alt="with" src="https://imgur.com/V8G7fvc.jpg" width="49%">
 </p>
