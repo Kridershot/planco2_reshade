@@ -90,3 +90,12 @@ If you want to configure ReShade by your self, you can just take a LUT file: res
 &nbsp;
   <img alt="with" src="https://imgur.com/TeV4Srr.jpg" width="49%">
 </p>
+
+## Comparison(Without/Default/Flat LUT)
+<p align="center">
+  <img alt="without" src="https://imgur.com/XnyDMkz.jpg" width="32%">
+&nbsp;
+  <img alt="default" src="https://imgur.com/DhTMEfJ.jpg" width="32%">
+  &nbsp;
+  <img alt="flat" src="https://imgur.com/rxXKlkG.jpg" width="32%">
+</p>
