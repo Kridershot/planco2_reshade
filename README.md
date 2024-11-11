@@ -4,6 +4,7 @@ Planet Coaster 2 looks too saturated compared the PlanCo 1 and Planet Zoo (espec
 This ReShade config has only LUT plugin, it **doesn't affect performance** at all. FPS would be the same.
 
 I tried to not tweak the colors much to keep original style of the game. I changed vibrance, saturation and a little tweaks in dark colors.
+If you want to make game more flat and desaturated with extra color tweaks, check the ![Flat LUT](https://github.com/Kridershot/planco2_reshade_flat).
 
 ## How to install
 1. Install ReShade
